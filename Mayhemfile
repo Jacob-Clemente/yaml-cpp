@@ -1,0 +1,5 @@
+project: yaml-cpp
+target: parse
+
+cmds:
+  - cmd: /parse @@
